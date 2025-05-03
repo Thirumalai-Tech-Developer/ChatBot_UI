@@ -90,7 +90,7 @@ Special thanks to the open-source community and AI model developers for making t
 
 For suggestions, feedback, or collaborations:
 
-* GitHub: [@Thirumalai-Tech-Developer]((https://github.com/Thirumalai-Tech-Developer))
+* GitHub: [@Thirumalai-Tech-Developer](https://github.com/Thirumalai-Tech-Developer)
 * Email: [thirutechdeveloper@gmail.com](mailto:thirutechdeveloper@gmail.com)
 
 ---
