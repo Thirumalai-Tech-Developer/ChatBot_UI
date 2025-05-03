@@ -16,11 +16,6 @@ CodeChat AI is an interactive, web-based coding assistant built with [Streamlit]
 
 ---
 
-## 📸 UI Preview
-
-> ![screenshot-placeholder](https://via.placeholder.com/800x400.png?text=App+Screenshot+Here)
-
----
 
 ## 🔧 Setup Instructions
 
