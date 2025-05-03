@@ -1,4 +1,4 @@
-````markdown
+
 # 💻 CodeChat AI
 
 CodeChat AI is an interactive, web-based coding assistant built with [Streamlit](https://streamlit.io/) and powered by Ollama's AI model `qwen2.5-coder:1.5b`. It offers a sleek UI, real-time chat features, and session-based chat storage for developers seeking smart assistance with code.
