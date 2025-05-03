@@ -90,12 +90,8 @@ Special thanks to the open-source community and AI model developers for making t
 
 For suggestions, feedback, or collaborations:
 
-* GitHub: [@your-username](https://github.com/your-username)
-* Email: [you@example.com](mailto:you@example.com)
+* GitHub: [@Thirumalai-Tech-Developer]((https://github.com/Thirumalai-Tech-Developer))
+* Email: [thirutechdeveloper@gmail.com](mailto:thirutechdeveloper@gmail.com)
 
 ---
 
-```
-
-Would you like me to generate a sample `requirements.txt` for this project as well?
-```
